@@ -10,16 +10,19 @@
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build"
   },
+  "engines": {
+    "node": "14.17.5"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sajees89/final-project.git"
+    "url": "git+https://github.com/ConstanceDesign/unidentified-future-teens"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sajees89/final-project/issues"
+    "url": "https://github.com/ConstanceDesign/unidentified-future-teens/issues"
   },
-  "homepage": "https://github.com/sajees89/final-project#readme",
+  "homepage": "https://github.com/ConstanceDesign/unidentified-future-teens#readme",
   "dependencies": {
     "concurrently": "^7.1.0"
   }
